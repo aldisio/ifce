@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/138/tradeinphone/library/Zend/Mime
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/138/tradeinphone/library/Zend/Mime/Message.php
+END
+Decode.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/138/tradeinphone/library/Zend/Mime/Decode.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/138/tradeinphone/library/Zend/Mime/Exception.php
+END
+Part.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/138/tradeinphone/library/Zend/Mime/Part.php
+END

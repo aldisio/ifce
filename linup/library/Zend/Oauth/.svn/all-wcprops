@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/138/tradeinphone/library/Zend/Oauth
+END
+Consumer.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/138/tradeinphone/library/Zend/Oauth/Consumer.php
+END
+Http.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/138/tradeinphone/library/Zend/Oauth/Http.php
+END
+Token.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/138/tradeinphone/library/Zend/Oauth/Token.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/138/tradeinphone/library/Zend/Oauth/Client.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/138/tradeinphone/library/Zend/Oauth/Exception.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/138/tradeinphone/library/Zend/Oauth/Config.php
+END
