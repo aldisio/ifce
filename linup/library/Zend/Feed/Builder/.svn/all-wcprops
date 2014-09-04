@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Builder
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Builder/Interface.php
+END
+Header.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Builder/Header.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Builder/Exception.php
+END
+Entry.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Builder/Entry.php
+END

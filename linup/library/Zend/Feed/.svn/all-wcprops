@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed
+END
+Builder.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Builder.php
+END
+Element.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Element.php
+END
+Pubsubhubbub.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Pubsubhubbub.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Exception.php
+END
+Atom.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Atom.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Abstract.php
+END
+Rss.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Rss.php
+END
+Reader.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Reader.php
+END
+Writer.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Writer.php
+END

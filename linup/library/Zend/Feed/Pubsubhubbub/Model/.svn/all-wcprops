@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Pubsubhubbub/Model
+END
+ModelAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Pubsubhubbub/Model/ModelAbstract.php
+END
+SubscriptionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Pubsubhubbub/Model/SubscriptionInterface.php
+END
+Subscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/tradeinphone/library/Zend/Feed/Pubsubhubbub/Model/Subscription.php
+END

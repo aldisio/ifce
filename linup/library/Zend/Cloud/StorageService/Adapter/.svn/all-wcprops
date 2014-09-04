@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/138/tradeinphone/library/Zend/Cloud/StorageService/Adapter
+END
+Nirvanix.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/138/tradeinphone/library/Zend/Cloud/StorageService/Adapter/Nirvanix.php
+END
+FileSystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/138/tradeinphone/library/Zend/Cloud/StorageService/Adapter/FileSystem.php
+END
+WindowsAzure.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/138/tradeinphone/library/Zend/Cloud/StorageService/Adapter/WindowsAzure.php
+END
+S3.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/138/tradeinphone/library/Zend/Cloud/StorageService/Adapter/S3.php
+END
