@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/138/tradeinphone/library/Zend/Tool/Project/Context/System
+END
+NotOverwritable.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/138/tradeinphone/library/Zend/Tool/Project/Context/System/NotOverwritable.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/138/tradeinphone/library/Zend/Tool/Project/Context/System/Interface.php
+END
+ProjectProfileFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/138/tradeinphone/library/Zend/Tool/Project/Context/System/ProjectProfileFile.php
+END
+ProjectDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/138/tradeinphone/library/Zend/Tool/Project/Context/System/ProjectDirectory.php
+END
+ProjectProvidersDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/138/tradeinphone/library/Zend/Tool/Project/Context/System/ProjectProvidersDirectory.php
+END
+TopLevelRestrictable.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/138/tradeinphone/library/Zend/Tool/Project/Context/System/TopLevelRestrictable.php
+END

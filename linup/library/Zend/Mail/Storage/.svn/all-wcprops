@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/138/tradeinphone/library/Zend/Mail/Storage
+END
+Maildir.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/138/tradeinphone/library/Zend/Mail/Storage/Maildir.php
+END
+Mbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/138/tradeinphone/library/Zend/Mail/Storage/Mbox.php
+END
+Folder.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/138/tradeinphone/library/Zend/Mail/Storage/Folder.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/138/tradeinphone/library/Zend/Mail/Storage/Exception.php
+END
+Pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/138/tradeinphone/library/Zend/Mail/Storage/Pop3.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/138/tradeinphone/library/Zend/Mail/Storage/Abstract.php
+END
+Imap.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/138/tradeinphone/library/Zend/Mail/Storage/Imap.php
+END

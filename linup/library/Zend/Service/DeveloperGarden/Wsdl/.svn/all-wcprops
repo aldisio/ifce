@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/138/tradeinphone/library/Zend/Service/DeveloperGarden/Wsdl
+END
+ODGBaseUserService.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/138/tradeinphone/library/Zend/Service/DeveloperGarden/Wsdl/ODGBaseUserService.xsd
+END
+IPLocation.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/138/tradeinphone/library/Zend/Service/DeveloperGarden/Wsdl/IPLocation.wsdl
+END
+TokenService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/138/tradeinphone/library/Zend/Service/DeveloperGarden/Wsdl/TokenService.wsdl
+END
+SmsService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/138/tradeinphone/library/Zend/Service/DeveloperGarden/Wsdl/SmsService.wsdl
+END
+VoiceButlerService.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/138/tradeinphone/library/Zend/Service/DeveloperGarden/Wsdl/VoiceButlerService.xsd
+END
+VoiceButlerService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/138/tradeinphone/library/Zend/Service/DeveloperGarden/Wsdl/VoiceButlerService.wsdl
+END
+IPLocation.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/138/tradeinphone/library/Zend/Service/DeveloperGarden/Wsdl/IPLocation.xsd
+END
+SmsValidationUserService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/138/tradeinphone/library/Zend/Service/DeveloperGarden/Wsdl/SmsValidationUserService.wsdl
+END
+ODGBaseUserService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/138/tradeinphone/library/Zend/Service/DeveloperGarden/Wsdl/ODGBaseUserService.wsdl
+END
+localsearch.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/138/tradeinphone/library/Zend/Service/DeveloperGarden/Wsdl/localsearch.xsd
+END
+ccsPort.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/138/tradeinphone/library/Zend/Service/DeveloperGarden/Wsdl/ccsPort.wsdl
+END
+localsearch.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/138/tradeinphone/library/Zend/Service/DeveloperGarden/Wsdl/localsearch.wsdl
+END
+ccsPort.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/tradeinphone/library/Zend/Service/DeveloperGarden/Wsdl/ccsPort.xsd
+END

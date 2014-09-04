@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/138/tradeinphone/library/Zend/Db/Adapter
+END
+Mysqli.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/138/tradeinphone/library/Zend/Db/Adapter/Mysqli.php
+END
+Sqlsrv.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/138/tradeinphone/library/Zend/Db/Adapter/Sqlsrv.php
+END
+Oracle.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/138/tradeinphone/library/Zend/Db/Adapter/Oracle.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/138/tradeinphone/library/Zend/Db/Adapter/Exception.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/138/tradeinphone/library/Zend/Db/Adapter/Abstract.php
+END
+Db2.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/138/tradeinphone/library/Zend/Db/Adapter/Db2.php
+END

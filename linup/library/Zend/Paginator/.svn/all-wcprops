@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/138/tradeinphone/library/Zend/Paginator
+END
+SerializableLimitIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/138/tradeinphone/library/Zend/Paginator/SerializableLimitIterator.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/138/tradeinphone/library/Zend/Paginator/Exception.php
+END
+AdapterAggregate.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/138/tradeinphone/library/Zend/Paginator/AdapterAggregate.php
+END

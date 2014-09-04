@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/138/tradeinphone/library/Zend/Ldap/Node/RootDse
+END
+ActiveDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/138/tradeinphone/library/Zend/Ldap/Node/RootDse/ActiveDirectory.php
+END
+eDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/138/tradeinphone/library/Zend/Ldap/Node/RootDse/eDirectory.php
+END
+OpenLdap.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/138/tradeinphone/library/Zend/Ldap/Node/RootDse/OpenLdap.php
+END

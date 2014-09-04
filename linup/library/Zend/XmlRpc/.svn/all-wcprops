@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/138/tradeinphone/library/Zend/XmlRpc
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/138/tradeinphone/library/Zend/XmlRpc/Client.php
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/138/tradeinphone/library/Zend/XmlRpc/Request.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/138/tradeinphone/library/Zend/XmlRpc/Exception.php
+END
+Value.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/138/tradeinphone/library/Zend/XmlRpc/Value.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/138/tradeinphone/library/Zend/XmlRpc/Response.php
+END
+Fault.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/138/tradeinphone/library/Zend/XmlRpc/Fault.php
+END
+Server.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/138/tradeinphone/library/Zend/XmlRpc/Server.php
+END
